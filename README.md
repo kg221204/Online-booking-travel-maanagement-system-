@@ -1,2 +1,6 @@
-# Online-booking-travel-maanagement-system-
-To  book online tickets in 2 minutes with no gime consuming
+
+Hi, I'm Karishma Gupta 👋
+BCA Student | Aspiring Data Analyst
+
+🔭 Learning: SQL, Excel, Power BI
+🌱 Project: Tourism Management System
